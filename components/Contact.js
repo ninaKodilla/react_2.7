@@ -9,7 +9,7 @@ var Contact = React.createClass({
             <img 
                 className={'contactImage'} 
                 src={'https://www.freeiconspng.com/uploads/person-outline-icon-png-person-outline-icon-png-person-17.png'} 
-                alt={'contact img'} 
+                alt='contact img' 
             />
             <p className={'contactLabel'}>
                 Imię: {this.props.item.firstName} 
